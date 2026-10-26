@@ -22,6 +22,10 @@ jobs:
 
       - run: pnpm install --frozen-lockfile
 
+      # packages/shared must be built before apps/service or apps/web can
+      # resolve its types - see internal note on this in the Dockerfile.
+      - run: pnpm --filter @alreadycovered/shared build
+
       - run: pnpm typecheck
 
       # Unit tests only: integration/e2e/eval tests need a local Postgres
