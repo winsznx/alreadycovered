@@ -1,0 +1,56 @@
+[
+ {
+  "text": "Private",
+  "start": 0.0,
+  "end": 0.3,
+  "id": "w0"
+ },
+ {
+  "text": "to",
+  "start": 0.3,
+  "end": 0.5,
+  "id": "w1"
+ },
+ {
+  "text": "her",
+  "start": 0.5,
+  "end": 0.62,
+  "id": "w2"
+ },
+ {
+  "text": "account,",
+  "start": 0.62,
+  "end": 1.04,
+  "id": "w3"
+ },
+ {
+  "text": "start",
+  "start": 1.64,
+  "end": 1.7,
+  "id": "w4"
+ },
+ {
+  "text": "free",
+  "start": 1.7,
+  "end": 2.02,
+  "id": "w5"
+ },
+ {
+  "text": "at",
+  "start": 2.02,
+  "end": 2.26,
+  "id": "w6"
+ },
+ {
+  "text": "already",
+  "start": 2.26,
+  "end": 2.52,
+  "id": "w7"
+ },
+ {
+  "text": "covered.",
+  "start": 2.52,
+  "end": 2.88,
+  "id": "w8"
+ }
+]

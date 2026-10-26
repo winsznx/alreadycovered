@@ -1,0 +1,86 @@
+[
+ {
+  "text": "She",
+  "start": 0.0,
+  "end": 0.16,
+  "id": "w0"
+ },
+ {
+  "text": "set",
+  "start": 0.16,
+  "end": 0.34,
+  "id": "w1"
+ },
+ {
+  "text": "it",
+  "start": 0.34,
+  "end": 0.42,
+  "id": "w2"
+ },
+ {
+  "text": "up",
+  "start": 0.42,
+  "end": 0.54,
+  "id": "w3"
+ },
+ {
+  "text": "once.",
+  "start": 0.54,
+  "end": 0.86,
+  "id": "w4"
+ },
+ {
+  "text": "Her",
+  "start": 1.4,
+  "end": 1.5,
+  "id": "w5"
+ },
+ {
+  "text": "class,",
+  "start": 1.5,
+  "end": 1.8,
+  "id": "w6"
+ },
+ {
+  "text": "her",
+  "start": 2.16,
+  "end": 2.2,
+  "id": "w7"
+ },
+ {
+  "text": "weekly",
+  "start": 2.2,
+  "end": 2.5,
+  "id": "w8"
+ },
+ {
+  "text": "schedule,",
+  "start": 2.5,
+  "end": 2.92,
+  "id": "w9"
+ },
+ {
+  "text": "nothing",
+  "start": 3.26,
+  "end": 3.42,
+  "id": "w10"
+ },
+ {
+  "text": "more",
+  "start": 3.42,
+  "end": 3.68,
+  "id": "w11"
+ },
+ {
+  "text": "to",
+  "start": 3.68,
+  "end": 3.84,
+  "id": "w12"
+ },
+ {
+  "text": "maintain.",
+  "start": 3.84,
+  "end": 4.2,
+  "id": "w13"
+ }
+]

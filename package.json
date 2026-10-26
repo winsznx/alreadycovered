@@ -1,0 +1,39 @@
+{
+  "name": "alreadycovered",
+  "version": "0.1.0",
+  "private": true,
+  "license": "MIT",
+  "description": "A substitute-teaching pack that's ready before a teacher needs a sick day.",
+  "homepage": "https://alreadycovered.vercel.app",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/winsznx/alreadycovered.git"
+  },
+  "type": "module",
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "scripts": {
+    "build": "pnpm -r build",
+    "start": "node apps/service/dist/index.js",
+    "dev": "pnpm --parallel -r dev",
+    "lint": "pnpm -r lint",
+    "typecheck": "pnpm -r typecheck",
+    "test": "vitest run",
+    "test:unit": "vitest run tests/unit",
+    "test:integration": "vitest run tests/integration",
+    "test:e2e": "playwright test",
+    "test:eval": "vitest run --config vitest.eval.config.ts"
+  },
+  "devDependencies": {
+    "@alreadycovered/shared": "workspace:*",
+    "@playwright/test": "^1.49.1",
+    "@types/node": "^22.10.2",
+    "@types/pg": "^8.11.10",
+    "pg": "^8.13.1",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2",
+    "vitest": "^2.1.8"
+  },
+  "packageManager": "pnpm@9.15.0"
+}

@@ -1,0 +1,104 @@
+[
+ {
+  "text": "She",
+  "start": 0.0,
+  "end": 0.18,
+  "id": "w0"
+ },
+ {
+  "text": "uploads",
+  "start": 0.18,
+  "end": 0.7,
+  "id": "w1"
+ },
+ {
+  "text": "what",
+  "start": 0.7,
+  "end": 0.78,
+  "id": "w2"
+ },
+ {
+  "text": "she",
+  "start": 0.78,
+  "end": 0.94,
+  "id": "w3"
+ },
+ {
+  "text": "already",
+  "start": 0.94,
+  "end": 1.14,
+  "id": "w4"
+ },
+ {
+  "text": "has,",
+  "start": 1.14,
+  "end": 1.62,
+  "id": "w5"
+ },
+ {
+  "text": "a",
+  "start": 1.88,
+  "end": 2.02,
+  "id": "w6"
+ },
+ {
+  "text": "worksheet,",
+  "start": 2.02,
+  "end": 2.5,
+  "id": "w7"
+ },
+ {
+  "text": "her",
+  "start": 2.8,
+  "end": 2.88,
+  "id": "w8"
+ },
+ {
+  "text": "chapter",
+  "start": 2.88,
+  "end": 3.18,
+  "id": "w9"
+ },
+ {
+  "text": "notes,",
+  "start": 3.18,
+  "end": 3.52,
+  "id": "w10"
+ },
+ {
+  "text": "and",
+  "start": 3.86,
+  "end": 4.08,
+  "id": "w11"
+ },
+ {
+  "text": "the",
+  "start": 4.08,
+  "end": 4.18,
+  "id": "w12"
+ },
+ {
+  "text": "app",
+  "start": 4.18,
+  "end": 4.4,
+  "id": "w13"
+ },
+ {
+  "text": "indexes",
+  "start": 4.4,
+  "end": 4.86,
+  "id": "w14"
+ },
+ {
+  "text": "every",
+  "start": 4.86,
+  "end": 5.24,
+  "id": "w15"
+ },
+ {
+  "text": "page.",
+  "start": 5.24,
+  "end": 5.56,
+  "id": "w16"
+ }
+]

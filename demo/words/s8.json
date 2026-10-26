@@ -1,0 +1,86 @@
+[
+ {
+  "text": "She",
+  "start": 0.0,
+  "end": 0.18,
+  "id": "w0"
+ },
+ {
+  "text": "reviews",
+  "start": 0.18,
+  "end": 0.52,
+  "id": "w1"
+ },
+ {
+  "text": "the",
+  "start": 0.52,
+  "end": 0.72,
+  "id": "w2"
+ },
+ {
+  "text": "draft,",
+  "start": 0.72,
+  "end": 1.12,
+  "id": "w3"
+ },
+ {
+  "text": "approves",
+  "start": 1.44,
+  "end": 1.78,
+  "id": "w4"
+ },
+ {
+  "text": "the",
+  "start": 1.78,
+  "end": 2.0,
+  "id": "w5"
+ },
+ {
+  "text": "worksheet",
+  "start": 2.0,
+  "end": 2.38,
+  "id": "w6"
+ },
+ {
+  "text": "for",
+  "start": 2.38,
+  "end": 2.56,
+  "id": "w7"
+ },
+ {
+  "text": "handover,",
+  "start": 2.56,
+  "end": 3.02,
+  "id": "w8"
+ },
+ {
+  "text": "and",
+  "start": 3.3,
+  "end": 3.46,
+  "id": "w9"
+ },
+ {
+  "text": "marks",
+  "start": 3.46,
+  "end": 3.7,
+  "id": "w10"
+ },
+ {
+  "text": "the",
+  "start": 3.7,
+  "end": 3.88,
+  "id": "w11"
+ },
+ {
+  "text": "packet",
+  "start": 3.88,
+  "end": 4.18,
+  "id": "w12"
+ },
+ {
+  "text": "reviewed.",
+  "start": 4.18,
+  "end": 4.56,
+  "id": "w13"
+ }
+]

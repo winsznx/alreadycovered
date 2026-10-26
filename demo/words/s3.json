@@ -1,0 +1,128 @@
+[
+ {
+  "text": "Already",
+  "start": 0.0,
+  "end": 0.34,
+  "id": "w0"
+ },
+ {
+  "text": "Covered",
+  "start": 0.34,
+  "end": 0.72,
+  "id": "w1"
+ },
+ {
+  "text": "keeps",
+  "start": 0.72,
+  "end": 1.06,
+  "id": "w2"
+ },
+ {
+  "text": "a",
+  "start": 1.06,
+  "end": 1.36,
+  "id": "w3"
+ },
+ {
+  "text": "substitute",
+  "start": 1.36,
+  "end": 1.72,
+  "id": "w4"
+ },
+ {
+  "text": "teaching",
+  "start": 1.72,
+  "end": 2.22,
+  "id": "w5"
+ },
+ {
+  "text": "pack",
+  "start": 2.22,
+  "end": 2.58,
+  "id": "w6"
+ },
+ {
+  "text": "ready",
+  "start": 2.58,
+  "end": 3.14,
+  "id": "w7"
+ },
+ {
+  "text": "before",
+  "start": 3.14,
+  "end": 3.48,
+  "id": "w8"
+ },
+ {
+  "text": "an",
+  "start": 3.48,
+  "end": 3.64,
+  "id": "w9"
+ },
+ {
+  "text": "absence",
+  "start": 3.64,
+  "end": 3.98,
+  "id": "w10"
+ },
+ {
+  "text": "happens.",
+  "start": 3.98,
+  "end": 4.56,
+  "id": "w11"
+ },
+ {
+  "text": "Built",
+  "start": 5.14,
+  "end": 5.24,
+  "id": "w12"
+ },
+ {
+  "text": "from",
+  "start": 5.24,
+  "end": 5.46,
+  "id": "w13"
+ },
+ {
+  "text": "the",
+  "start": 5.46,
+  "end": 5.62,
+  "id": "w14"
+ },
+ {
+  "text": "lesson",
+  "start": 5.62,
+  "end": 5.88,
+  "id": "w15"
+ },
+ {
+  "text": "files,",
+  "start": 5.88,
+  "end": 6.32,
+  "id": "w16"
+ },
+ {
+  "text": "a",
+  "start": 6.64,
+  "end": 6.72,
+  "id": "w17"
+ },
+ {
+  "text": "teacher",
+  "start": 6.72,
+  "end": 7.02,
+  "id": "w18"
+ },
+ {
+  "text": "already",
+  "start": 7.02,
+  "end": 7.4,
+  "id": "w19"
+ },
+ {
+  "text": "has.",
+  "start": 7.4,
+  "end": 7.8,
+  "id": "w20"
+ }
+]

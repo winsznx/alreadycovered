@@ -1,0 +1,122 @@
+[
+ {
+  "text": "one",
+  "start": 0.0,
+  "end": 0.24,
+  "id": "w0"
+ },
+ {
+  "text": "export,",
+  "start": 0.24,
+  "end": 0.68,
+  "id": "w1"
+ },
+ {
+  "text": "a",
+  "start": 1.04,
+  "end": 1.16,
+  "id": "w2"
+ },
+ {
+  "text": "real",
+  "start": 1.16,
+  "end": 1.46,
+  "id": "w3"
+ },
+ {
+  "text": "PDF,",
+  "start": 1.46,
+  "end": 1.9,
+  "id": "w4"
+ },
+ {
+  "text": "and",
+  "start": 2.36,
+  "end": 2.5,
+  "id": "w5"
+ },
+ {
+  "text": "a",
+  "start": 2.5,
+  "end": 2.6,
+  "id": "w6"
+ },
+ {
+  "text": "ZIP",
+  "start": 2.6,
+  "end": 3.1,
+  "id": "w7"
+ },
+ {
+  "text": "of",
+  "start": 3.1,
+  "end": 3.42,
+  "id": "w8"
+ },
+ {
+  "text": "the",
+  "start": 3.42,
+  "end": 3.54,
+  "id": "w9"
+ },
+ {
+  "text": "approved",
+  "start": 3.54,
+  "end": 3.9,
+  "id": "w10"
+ },
+ {
+  "text": "resources.",
+  "start": 3.9,
+  "end": 4.4,
+  "id": "w11"
+ },
+ {
+  "text": "Nothing",
+  "start": 5.26,
+  "end": 5.52,
+  "id": "w12"
+ },
+ {
+  "text": "sent",
+  "start": 5.52,
+  "end": 5.8,
+  "id": "w13"
+ },
+ {
+  "text": "anywhere,",
+  "start": 5.8,
+  "end": 6.2,
+  "id": "w14"
+ },
+ {
+  "text": "just",
+  "start": 6.44,
+  "end": 6.64,
+  "id": "w15"
+ },
+ {
+  "text": "a",
+  "start": 6.64,
+  "end": 6.84,
+  "id": "w16"
+ },
+ {
+  "text": "file",
+  "start": 6.84,
+  "end": 7.08,
+  "id": "w17"
+ },
+ {
+  "text": "she",
+  "start": 7.08,
+  "end": 7.3,
+  "id": "w18"
+ },
+ {
+  "text": "controls.",
+  "start": 7.3,
+  "end": 7.64,
+  "id": "w19"
+ }
+]

@@ -1,0 +1,116 @@
+[
+ {
+  "text": "When",
+  "start": 0.0,
+  "end": 0.12,
+  "id": "w0"
+ },
+ {
+  "text": "a",
+  "start": 0.12,
+  "end": 0.24,
+  "id": "w1"
+ },
+ {
+  "text": "block",
+  "start": 0.24,
+  "end": 0.44,
+  "id": "w2"
+ },
+ {
+  "text": "needs",
+  "start": 0.44,
+  "end": 0.78,
+  "id": "w3"
+ },
+ {
+  "text": "covering,",
+  "start": 0.78,
+  "end": 1.22,
+  "id": "w4"
+ },
+ {
+  "text": "the",
+  "start": 1.6,
+  "end": 1.72,
+  "id": "w5"
+ },
+ {
+  "text": "model",
+  "start": 1.72,
+  "end": 2.06,
+  "id": "w6"
+ },
+ {
+  "text": "drafts",
+  "start": 2.06,
+  "end": 2.42,
+  "id": "w7"
+ },
+ {
+  "text": "substitute",
+  "start": 2.42,
+  "end": 3.12,
+  "id": "w8"
+ },
+ {
+  "text": "facing",
+  "start": 3.12,
+  "end": 3.48,
+  "id": "w9"
+ },
+ {
+  "text": "steps,",
+  "start": 3.48,
+  "end": 4.04,
+  "id": "w10"
+ },
+ {
+  "text": "grounded",
+  "start": 4.64,
+  "end": 4.9,
+  "id": "w11"
+ },
+ {
+  "text": "only",
+  "start": 4.9,
+  "end": 5.26,
+  "id": "w12"
+ },
+ {
+  "text": "in",
+  "start": 5.26,
+  "end": 5.48,
+  "id": "w13"
+ },
+ {
+  "text": "that",
+  "start": 5.48,
+  "end": 5.6,
+  "id": "w14"
+ },
+ {
+  "text": "material,",
+  "start": 5.6,
+  "end": 6.08,
+  "id": "w15"
+ },
+ {
+  "text": "never",
+  "start": 6.42,
+  "end": 6.6,
+  "id": "w16"
+ },
+ {
+  "text": "a",
+  "start": 6.6,
+  "end": 6.78,
+  "id": "w17"
+ },
+ {
+  "text": "guess.",
+  "start": 6.78,
+  "end": 6.96,
+  "id": "w18"
+ }
+]

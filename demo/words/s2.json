@@ -1,0 +1,98 @@
+[
+ {
+  "text": "Normally",
+  "start": 0.0,
+  "end": 0.38,
+  "id": "w0"
+ },
+ {
+  "text": "that",
+  "start": 0.38,
+  "end": 0.68,
+  "id": "w1"
+ },
+ {
+  "text": "means",
+  "start": 0.68,
+  "end": 0.92,
+  "id": "w2"
+ },
+ {
+  "text": "finding",
+  "start": 0.92,
+  "end": 1.32,
+  "id": "w3"
+ },
+ {
+  "text": "the",
+  "start": 1.32,
+  "end": 1.58,
+  "id": "w4"
+ },
+ {
+  "text": "right",
+  "start": 1.58,
+  "end": 1.76,
+  "id": "w5"
+ },
+ {
+  "text": "worksheet,",
+  "start": 1.76,
+  "end": 2.36,
+  "id": "w6"
+ },
+ {
+  "text": "writing",
+  "start": 2.72,
+  "end": 3.1,
+  "id": "w7"
+ },
+ {
+  "text": "instructions",
+  "start": 3.1,
+  "end": 3.7,
+  "id": "w8"
+ },
+ {
+  "text": "out",
+  "start": 3.7,
+  "end": 3.98,
+  "id": "w9"
+ },
+ {
+  "text": "by",
+  "start": 3.98,
+  "end": 4.16,
+  "id": "w10"
+ },
+ {
+  "text": "hand,",
+  "start": 4.16,
+  "end": 4.52,
+  "id": "w11"
+ },
+ {
+  "text": "and",
+  "start": 4.82,
+  "end": 5.0,
+  "id": "w12"
+ },
+ {
+  "text": "hoping",
+  "start": 5.0,
+  "end": 5.34,
+  "id": "w13"
+ },
+ {
+  "text": "they're",
+  "start": 5.34,
+  "end": 5.68,
+  "id": "w14"
+ },
+ {
+  "text": "enough.",
+  "start": 5.68,
+  "end": 5.9,
+  "id": "w15"
+ }
+]

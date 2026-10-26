@@ -1,0 +1,82 @@
+[span] AlreadyCovered
+[button] Features
+[button] How it works
+[a] Log in
+[button] Start free
+[span] For teachers who prep their own sub plans
+[h1] A substitute-teaching pack that’s ready before a teacher needs a sick day.
+[p] AlreadyCovered keeps a source-linked substitute packet current from the lesson files you already have, so an unplanned absence doesn’t mean rebuilding tomorrow’s lessons from scratch while you’re unwell.
+[button] Start free
+[button] See how it works
+[p] Grade 4A · Mon, Nov 2
+[p] Private to your account
+[span] Needs attention
+[p] 9:00–10:00 AM
+[p] Mathematics
+[span] Reviewed
+[p] 10:30–11:30 AM
+[p] Reading
+[span] Needs review
+[p] 1:00–1:45 PM
+[p] Science
+[span] Missing material
+[div] Source:
+[span] fractions-worksheet.pdf, page 1
+[span] The problem
+[h2] Sub plans get assembled at the worst possible moment
+[p] Most sub-plan tools still need you to gather context and assemble resources once an absence is already happening. AlreadyCovered keeps the draft current in advance, so there's less to do when you're least able to do it.
+[p] Before
+[p] Hunt down the right worksheet, retype routines from memory, and hope the sub can follow notes written in a hurry.
+[p] During
+[p] AlreadyCovered has already drafted instructions from your real files and flagged what it couldn't confirm.
+[p] Now
+[p] Review what's flagged, approve the materials to include, and export a packet that's actually usable.
+[span] Why it works this way
+[h2] Grounded by construction, not by hope
+[h3] Every claim traces to a source
+[p] The model is only ever shown excerpts from your own indexed files and can only cite IDs it was actually given. Anything it cites outside that set is stripped before you ever see it.
+[h3] Missing means flagged, not filled in
+[p] No worksheet, no safety procedure, and no lesson date is ever invented. If the material isn't there, you see an honest "needs attention" instead of a confident-sounding guess.
+[h3] Your corrections stick
+[p] Edit a step, reject a match, or confirm a routine - your changes are preserved across regeneration, and a reviewed packet is only ever "reviewed" for the exact version you approved.
+[span] What's included
+[h2] Everything the handover actually needs
+[h3] Upload and index your lesson files
+[p] PDF, DOCX, TXT, and Markdown files are indexed with page- and section-level provenance, so every citation points to a real place in a real document.
+[h3] AI-drafted substitute instructions
+[p] Gemma inference turns your lesson notes into clear, substitute-facing steps, grounded only in the material you provided - never invented.
+[h3] Review and correct in one place
+[p] Every AI-authored line is distinguishable from your own edits. Reject a match, link a different file, or rewrite a step - your corrections are preserved.
+[h3] Real PDF + ZIP export
+[p] A printable, ink-friendly PDF and a ZIP of the approved worksheets with a checksummed manifest - nothing sent anywhere, a file you control.
+[h3] Change tracking
+[p] Edit a worksheet after you've reviewed a packet and the affected lesson is marked outdated automatically, instead of silently going stale.
+[h3] Honest gaps, not guesses
+[p] Missing or ambiguous material is flagged clearly with an action to resolve it - the app never fabricates a worksheet, a date, or a safety procedure.
+[span] How it works
+[h2] From lesson files to a finished packet
+[h3] Upload your lesson files
+[p] Add the worksheets and lesson notes you already have for your class.
+[h3] Set your weekly schedule
+[p] Tell AlreadyCovered your class periods once; it reuses them every week.
+[h3] Review the draft packet
+[p] See what's ready, what's missing, and exactly which file backs each instruction.
+[h3] Export when you need it
+[p] One click produces a real, printable PDF and a ZIP of the approved materials.
+[span] Questions
+[h2] Good questions, honest answers
+[summary] Who can see my files?
+[p] Only you. Your uploads and generated packets are private to your account, stored separately from every other teacher's. Nothing is sold to advertisers, used to train external models, or shared with your school automatically - and the app never collects student-roster or grade-book data.
+[summary] What file types are supported?
+[p] PDF (with a real text layer), DOCX, TXT, and Markdown. A scanned or image-only PDF is flagged as “no readable text” rather than guessed at.
+[summary] What happens if a worksheet is missing?
+[p] The lesson is marked “needs attention” with a plain-language reason. The app never invents a substitute worksheet or a page number - you link the right file or leave it clearly noted as missing in the export.
+[summary] Can I edit what the AI drafted?
+[p] Yes. Every instruction is editable, and your edit is preserved - re-generating a stale lesson after a file change never silently overwrites your correction.
+[summary] Is this free?
+[p] You can start for free. See the app for current plan details.
+[h2] Get tomorrow's sub plan ready today.
+[p] Set up your class once. Keep a ready packet without thinking about it again.
+[button] Start free
+[span] AlreadyCovered
+[span] Built for teachers who already do this work by hand.

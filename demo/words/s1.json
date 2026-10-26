@@ -1,0 +1,86 @@
+[
+ {
+  "text": "It's",
+  "start": 0.0,
+  "end": 0.26,
+  "id": "w0"
+ },
+ {
+  "text": "6",
+  "start": 0.26,
+  "end": 0.52,
+  "id": "w1"
+ },
+ {
+  "text": ".02",
+  "start": 0.52,
+  "end": 1.14,
+  "id": "w2"
+ },
+ {
+  "text": "a",
+  "start": 1.14,
+  "end": 1.42,
+  "id": "w3"
+ },
+ {
+  "text": ".m.",
+  "start": 1.42,
+  "end": 1.72,
+  "id": "w4"
+ },
+ {
+  "text": "A",
+  "start": 2.14,
+  "end": 2.3,
+  "id": "w5"
+ },
+ {
+  "text": "text",
+  "start": 2.3,
+  "end": 2.56,
+  "id": "w6"
+ },
+ {
+  "text": "comes",
+  "start": 2.56,
+  "end": 2.82,
+  "id": "w7"
+ },
+ {
+  "text": "in.",
+  "start": 2.82,
+  "end": 3.14,
+  "id": "w8"
+ },
+ {
+  "text": "She's",
+  "start": 3.44,
+  "end": 3.58,
+  "id": "w9"
+ },
+ {
+  "text": "not",
+  "start": 3.58,
+  "end": 3.74,
+  "id": "w10"
+ },
+ {
+  "text": "coming",
+  "start": 3.74,
+  "end": 4.04,
+  "id": "w11"
+ },
+ {
+  "text": "in",
+  "start": 4.04,
+  "end": 4.2,
+  "id": "w12"
+ },
+ {
+  "text": "today.",
+  "start": 4.2,
+  "end": 4.44,
+  "id": "w13"
+ }
+]

@@ -1,0 +1,42 @@
+node_modules/
+dist/
+build/
+.vite/
+*.log
+.DS_Store
+.env
+.env.local
+__pycache__/
+*.pyc
+
+# Local Claude Code session/tool settings - not meant to be shared
+.claude/
+
+# Never commit internal planning notes
+internal/
+
+# Demo video project: keep the source (build.py, script, narration,
+# transcripts, screenshots, voiceover) but not the local Python venv used to
+# run Kokoro TTS/Whisper (1GB+, machine-specific) or rendered video output
+# (regenerate with `npm run render` inside demo/)
+demo/tts/.venv/
+demo/renders/
+demo/.hyperframes/
+
+# Local application data (SQLite, exports, caches, uploaded files) must
+# never be committed
+app-data/
+apps/service/app-data/
+.local-storage/
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm
+
+# Test artifacts
+coverage/
+playwright-report/
+test-results/
+tests/evaluation/output/
+.e2e-data/
+
+tsconfig.tsbuildinfo

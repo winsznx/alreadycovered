@@ -1,0 +1,21 @@
+{
+	http_port 8080
+	https_port 8443
+	servers {
+		protocols h1 h2
+	}
+}
+
+# Self-signed cert (not publicly trusted) - see internal/DECISIONS.md for why:
+# Let's Encrypt validation always hits ports 80/443, which the VPS's other
+# project's Caddy instance owns, and we deliberately did not touch that
+# shared resource. A browser visiting this origin directly will need to
+# click through a security warning once; a real cert (either a purchased
+# domain, or getting the shared Caddy to front this service) should replace
+# this before any real teacher uses the product.
+api-alreadycovered.158.220.85.120.nip.io:8443 {
+	tls internal
+	reverse_proxy api:4173 {
+		flush_interval -1
+	}
+}
